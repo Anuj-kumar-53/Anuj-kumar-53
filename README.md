@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=500&color=FFEEE6&center=true&vCenter=true&width=435&lines=%7B++Hello+World++%7D;+I%E2%80%99m+Anuj+kumar)](https://git.io/typing-svg)
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">A passionate software developer from India</h1>
 
 - 🔭 I’m currently working on **my portfolio**
 
